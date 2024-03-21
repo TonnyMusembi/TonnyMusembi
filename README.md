@@ -18,7 +18,7 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 </a>
 <a href="https://www.linkedin.com/in/tonny-musembi-30a333181/">
   <img align="left" alt="Tonny  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> <br/>
 
 🔭 I’m currently working on  Vue and Nuxt
 
