@@ -5,7 +5,7 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 :computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Kenya, 𝒂𝒕 Techplain.io. 
 
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
+:vulcan_salute: 𝑰 am a passionate  𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 Engineer, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
 
 
 
@@ -20,7 +20,7 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
   <img align="left" alt="Tonny  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
+🔭 I’m currently working on  Vue and Nuxt
 
 **Languages and Tools:**  
 
@@ -36,13 +36,6 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TonnyMusembi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TonnyMusembi&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyMusembi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=TonnyMusembi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
