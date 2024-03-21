@@ -9,7 +9,7 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 ## 🌐 Socials:
 
 
-<a href="https://twitter.com/geeky_abhiz">
+<a href="https://twitter.com/TonnymusembiJ">
   <img align="left" alt="Tonny Musembi  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tonny-musembi-30a333181/">
