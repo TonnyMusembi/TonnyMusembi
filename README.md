@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
+Hi, I'm Tonny Musembi !, A passionate Full Stack Web Developer 🚀 from Kenya.
 
 :computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Kenya, 𝒂𝒕 Techplain.io. 
 
