@@ -7,6 +7,8 @@ Hi, I'm Tonny Musembi !, A passionate Full Stack Web Developer 🚀 from Kenya.
 
 :vulcan_salute: 𝑰 am a passionate  𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 Engineer, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
 
+🧮 :Data Analyst.
+
 
 
 
