@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
+
 <!--
 **TonnyMusembi/TonnyMusembi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
