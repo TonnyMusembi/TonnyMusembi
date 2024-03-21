@@ -20,7 +20,7 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 [![](https://visitcount.itsvg.in/api?id=TonnyMusembi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![TonnyMusembi github stats](https://github-readme-stats.vercel.app/api?username=TonnyMusembi&show_icons=true&hide_border=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
