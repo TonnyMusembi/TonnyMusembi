@@ -2,7 +2,7 @@
 
 Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 #4FC08D  Developer.
-
+![TonnyMusembi github stats](https://github-readme-stats.vercel.app/api?username=TonnyMusembi&show_icons=true&hide_border=true)
 <!--
 **TonnyMusembi/TonnyMusembi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
