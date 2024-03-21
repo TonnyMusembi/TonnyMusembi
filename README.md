@@ -14,6 +14,9 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 <a href="https://www.linkedin.com/in/tonny-musembi-30a333181/">
   <img align="left" alt="Tonny  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
