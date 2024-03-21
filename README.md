@@ -37,7 +37,7 @@ Hi, I'm Tonny Musembi !, a passionate Full Stack Web Developer 🚀 from Kenya.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TonnyMusembi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TonnyMusembi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TonnyMusembi&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyMusembi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
