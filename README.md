@@ -30,7 +30,7 @@ Hi, I'm Tonny Musembi !, A passionate Full Stack Web Developer 🚀 from Kenya.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,vue,Go,nodejs,nuxtjs,tailwind,mysql,js,pinia" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,vue,Go,nodejs,nuxtjs,tailwind,mysql,js,pinia,pnpm,rabbitmq,redis,vite" />
   </a>
 </p>
 
