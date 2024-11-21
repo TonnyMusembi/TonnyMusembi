@@ -4,7 +4,7 @@ Hi, I'm Tonny Musembi !, A passionate Full Stack Web Developer 🚀 from Kenya.
 
 :computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Kenya, 𝒂𝒕 Techplain.io. 
 
-💻  Vue.js  enthusiast .
+💻  Passionate about Vue.js 💚
 
 :vulcan_salute: 𝑰 am a passionate  𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 Engineer, 𝒂𝒏𝒅  𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
 
