@@ -14,16 +14,11 @@ Hi, I'm Tonny Musembi !, A passionate Full Stack Web Developer 🚀 from Kenya.
 
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect
 
-
-<a href="https://twitter.com/TonnymusembiJ">
-  <img align="left" alt="Tonny Musembi  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tonny-musembi-30a333181/">
-  <img align="left" alt="Tonny  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> <br/>
-
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TonnymusembiJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonny-musembi-30a333181/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 **Languages and Tools:**  
 
